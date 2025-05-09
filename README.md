@@ -13,6 +13,6 @@
   <br /> 
 
   <!--Start Intro-->               
-  <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+  <p align="left">Novice developer of some things related to minecraft plugin development and much more.</p>
 
 </div>
